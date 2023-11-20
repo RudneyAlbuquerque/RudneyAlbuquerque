@@ -27,10 +27,6 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Windows&logoColor=fff)
 ![microsoft-office](https://img.shields.io/badge/microsoft-office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=0D1117)
 
-
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools👀 I’m interested in:  </h3>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -39,12 +35,13 @@
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RudneyAlbuquerque&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudneyalbuquerque&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudneyalbuquerque&show_icons=true&locale=en&layout=compact" alt="rudneyalbuquerque" /></p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RudneyAlbuquerque&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RudneyAlbuquerque/js-developer-pokedex)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudneyalbuquerque&show_icons=true&locale=en" alt="rudneyalbuquerque" /></p>
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RudneyAlbuquerque&repo=js-developer-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RudneyAlbuquerque/js-developer-portfolio)
 
 <!---
 RudneyAlbuquerque/RudneyAlbuquerque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
